@@ -6,12 +6,14 @@
   Developer. In this challenge, I developed 
   advanced skills in business logic, automation, and integration using Apex.
 
+
 ##Contents
  
  Triggers
  Apex Classes
  Test Classes
  SOQL and SOSL Queries
+
 
 ##Screenshots
 
@@ -23,6 +25,7 @@ Add images here showing the Superbadge completion and, if possible, screenshots 
  How to develop Apex classes following best practices.
  How to write robust test classes to ensure code coverage and quality.
  How to perform web service integrations using Apex.
+
 
 ##About Me
 
