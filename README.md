@@ -1,7 +1,8 @@
 #Superbadge: Apex Specialist
 
 ##Description
-This repository contains the complete solution for the Apex Specialist Superbadge, part of my learning journey as a Salesforce Developer. In this challenge, I developed advanced skills in business logic, automation, and integration using Apex.
+  This repository contains the complete solution for the Apex Specialist Superbadge, part of my learning journey as a Salesforce Developer. In this challenge, I developed 
+  advanced skills in business logic, automation, and integration using Apex.
 
 ##Contents
  Triggers
