@@ -21,6 +21,7 @@ This repository contains the complete solution for the **Apex Specialist Superba
 - Salesforce Developer Console
 - Git & GitHub
 - Visual Studio Code with Salesforce Extensions
+- Python
 
 ---
 
