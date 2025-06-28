@@ -1,32 +1,62 @@
-#Superbadge: Apex Specialist
+# 🚀 Superbadge: Apex Specialist
 
-##Description
-  
-  This repository contains the complete solution for the Apex Specialist Superbadge, part of my learning journey as a Salesforce 
-  Developer. In this challenge, I developed 
-  advanced skills in business logic, automation, and integration using Apex.
+This repository contains the complete solution for the **Apex Specialist Superbadge**, developed on Trailhead as part of my hands-on learning journey to become a Salesforce Developer.
 
+---
 
-##Contents
- 
- Triggers
- Apex Classes
- Test Classes
- SOQL and SOSL Queries
+## ✅ What I Developed
 
+- Scalable and efficient triggers
+- Robust Apex classes
+- Well-structured test classes with high coverage
+- Web service integration using Apex
+- SOQL and SOSL queries
 
-##Screenshots
+---
 
-Add images here showing the Superbadge completion and, if possible, screenshots of the successful test runs in the Developer Console.
+## 🎯 Technologies Used
 
-##What I Learned
+- Salesforce Apex
+- SOQL / SOSL
+- Salesforce Developer Console
+- Git & GitHub
+- Visual Studio Code with Salesforce Extensions
 
- How to create efficient and scalable triggers.
- How to develop Apex classes following best practices.
- How to write robust test classes to ensure code coverage and quality.
- How to perform web service integrations using Apex.
+---
 
+## 🎬 Test Demonstrations
 
-##About Me
+### Class 1 - 100% Code Coverage
+![Class 1 Test Passing](docs/class1-test.gif)
 
-Pedro Henrique Albuquerque Peixe | Salesforce Core Developer Enthusiast
+### Class 2 - 100% Code Coverage
+![Class 2 Test Passing](docs/class2-test.gif)
+
+*(Replace the file names with your actual GIF names)*
+
+---
+
+## 📸 Superbadge Completion Proof
+
+![Superbadge Completed](docs/superbadge-completed.png)
+
+---
+
+## 📚 What I Learned
+
+- Writing scalable triggers that handle bulk operations.
+- Developing Apex classes following best practices.
+- Building reliable unit tests to achieve high code coverage.
+- Performing SOQL and SOSL queries efficiently.
+- Integrating external services using Apex callouts.
+
+---
+
+## 📂 Project Structure
+
+```plaintext
+/docs             → Screenshots and GIFs demonstrating tests and superbadge completion
+/triggers         → Apex triggers
+/classes          → Apex classes
+/test-classes     → Apex test classes
+README.md         → Project description
