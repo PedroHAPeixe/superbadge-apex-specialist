@@ -24,10 +24,11 @@ This repository contains the complete solution for the **Apex Specialist Superba
 
 ---
 
-## 🎬 Test Demonstrations
+# 🎬 Test Demonstrations
 
 ### Class 1 - 100% Code Coverage
 ![Class 1 Test Passing](docs/class-test1.gif)
+
 
 ### Class 2 - 100% Code Coverage
 ![Class 2 Test Passing](docs/class-test2.gif)
