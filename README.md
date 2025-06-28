@@ -27,10 +27,10 @@ This repository contains the complete solution for the **Apex Specialist Superba
 ## 🎬 Test Demonstrations
 
 ### Class 1 - 100% Code Coverage
-![Class 1 Test Passing](docs/class1-test.gif)
+![Class 1 Test Passing](docs/class-test1.gif)
 
 ### Class 2 - 100% Code Coverage
-![Class 2 Test Passing](docs/class2-test.gif)
+![Class 2 Test Passing](docs/class-test2.gif)
 
 *(Replace the file names with your actual GIF names)*
 
